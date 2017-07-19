@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "max4node": "^0.1.2",
+    "module-deps": "^4.1.1",
+    "ws": "^3.0.0"
+  }
+}
